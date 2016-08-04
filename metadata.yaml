@@ -1,0 +1,47 @@
+_repo: The-Republic_1497
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: The Republic is a Socratic dialogue by Plato, written in approximately
+  380 BC. It is one of the most influential works of philosophy and political theory,
+  and Plato's best known work. In Plato's fictional dialogues the characters of Socrates
+  as well as various Athenians and foreigners discuss the meaning of justice and examine
+  whether the just man is happier than the unjust man by constructing an imaginary
+  city ruled by philosopher-kings. The dialogue also discusses the nature of the philosopher,
+  Plato's Theory of Forms, the conflict between philosophy and poetry, and the immortality
+  of the so.
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '1998-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Justice -- Early works to 1800'
+- !lcc 'JC'
+- !lcsh 'Political science -- Early works to 1800'
+- !lcsh 'Classical literature'
+- !lcsh 'Utopias -- Early works to 1800'
+- GITenberg
+title: The Republic
+url: http://www.gutenberg.org/ebooks/1497

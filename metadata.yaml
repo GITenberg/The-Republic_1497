@@ -1,5 +1,5 @@
 _repo: The-Republic_1497
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Jowett, Benjamin
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '94'
     url: http://www.gutenberg.org/2009/agents/94
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Plato
@@ -26,6 +29,8 @@ description: The Republic is a Socratic dialogue by Plato, written in approximat
   city ruled by philosopher-kings. The dialogue also discusses the nature of the philosopher,
   Plato's Theory of Forms, the conflict between philosophy and poetry, and the immortality
   of the so.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1497#The-Republic
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '1998-10-01'
 gutenberg_type: Text

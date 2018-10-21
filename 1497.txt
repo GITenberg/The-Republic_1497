@@ -14,6 +14,7 @@ Translator: B. Jowett
 
 Posting Date: August 27, 2008 [EBook #1497]
 Release Date: October, 1998
+Last Updated: June 22, 2016
 
 Language: English
 
@@ -79,12 +80,13 @@ forms of thought are all of them to be found in the Republic, and were
 probably first invented by Plato. The greatest of all logical truths,
 and the one of which writers on philosophy are most apt to lose sight,
 the difference between words and things, has been most strenuously
-insisted on by him (cp. Rep.; Polit.; Cratyl), although he has not
-always avoided the confusion of them in his own writings (e.g. Rep.).
-But he does not bind up truth in logical formulae,--logic is still
-veiled in metaphysics; and the science which he imagines to 'contemplate
-all truth and all existence' is very unlike the doctrine of the
-syllogism which Aristotle claims to have discovered (Soph. Elenchi).
+insisted on by him (cp. Rep.; Polit.; Cratyl. 435, 436 ff), although he
+has not always avoided the confusion of them in his own writings (e.g.
+Rep.). But he does not bind up truth in logical formulae,--logic is
+still veiled in metaphysics; and the science which he imagines to
+'contemplate all truth and all existence' is very unlike the doctrine of
+the syllogism which Aristotle claims to have discovered (Soph. Elenchi,
+33. 18).
 
 Neither must we forget that the Republic is but the third part of a
 still larger design which was to have included an ideal history of
@@ -96,7 +98,7 @@ century. This mythical tale, of which the subject was a history of the
 wars of the Athenians against the Island of Atlantis, is supposed to be
 founded upon an unfinished poem of Solon, to which it would have stood
 in the same relation as the writings of the logographers to the poems of
-Homer. It would have told of a struggle for Liberty (cp. Tim.), intended
+Homer. It would have told of a struggle for Liberty (cp. Tim. 25 C), intended
 to represent the conflict of Persia and Hellas. We may judge from the
 noble commencement of the Timaeus, from the fragment of the Critias
 itself, and from the third book of the Laws, in what manner Plato would
@@ -106,13 +108,13 @@ in a fictitious history, or because he had lost his interest in it, or
 because advancing years forbade the completion of it; and we may please
 ourselves with the fancy that had this imaginary narrative ever been
 finished, we should have found Plato himself sympathising with the
-struggle for Hellenic independence (cp. Laws), singing a hymn of triumph
-over Marathon and Salamis, perhaps making the reflection of Herodotus
-where he contemplates the growth of the Athenian empire--'How brave a
-thing is freedom of speech, which has made the Athenians so far
-exceed every other state of Hellas in greatness!' or, more probably,
-attributing the victory to the ancient good order of Athens and to the
-favor of Apollo and Athene (cp. Introd. to Critias).
+struggle for Hellenic independence (cp. Laws  iii. 698 ff.), singing a
+hymn of triumph over Marathon and Salamis, perhaps making the reflection
+of Herodotus (v. 78) where he contemplates the growth of the Athenian
+empire--'How brave a thing is freedom of speech, which has made the
+Athenians so far exceed every other state of Hellas in greatness!' or,
+more probably, attributing the victory to the ancient good order of
+Athens and to the favor of Apollo and Athene (cp. Introd. to Critias).
 
 Again, Plato may be regarded as the 'captain' ('arhchegoz') or leader
 of a goodly band of followers; for in the Republic is to be found the
@@ -138,7 +140,7 @@ he has a revelation of another life; like Bacon, he is profoundly
 impressed with the unity of knowledge; in the early Church he exercised
 a real influence on theology, and at the Revival of Literature on
 politics. Even the fragments of his words when 'repeated at second-hand'
-(Symp.) have in all ages ravished the hearts of men, who have seen
+(Symp. 215 D) have in all ages ravished the hearts of men, who have seen
 reflected in them their own higher nature. He is the father of idealism
 in philosophy, in politics, in literature. And many of the latest
 conceptions of modern thinkers and statesmen, such as the unity of
@@ -177,7 +179,7 @@ banishment along with them. And the idea of the State is supplemented by
 the revelation of a future life.
 
 The division into books, like all similar divisions (Cp. Sir G.C. Lewis
-in the Classical Museum.), is probably later than the age of Plato. The
+in the Classical Museum, vol. ii. p 1.), is probably later than the age of Plato. The
 natural divisions are five in number;--(1) Book I and the first half
 of Book II down to the paragraph beginning, 'I had always admired the
 genius of Glaucon and Adeimantus,' which is introductory; the first
@@ -272,7 +274,7 @@ the principle of rewards and punishments in another life. The virtues
 are based on justice, of which common honesty in buying and selling
 is the shadow, and justice is based on the idea of good, which is the
 harmony of the world, and is reflected both in the institutions of
-states and in motions of the heavenly bodies (cp. Tim.). The Timaeus,
+states and in motions of the heavenly bodies (cp. Tim. 47). The Timaeus,
 which takes up the political rather than the ethical side of the
 Republic, and is chiefly occupied with hypotheses concerning the outward
 world, yet contains many indications that the same law is supposed to
@@ -345,7 +347,7 @@ been raised by Boeckh, respecting the imaginary date at which the
 conversation was held (the year 411 B.C. which is proposed by him will
 do as well as any other); for a writer of fiction, and especially a
 writer who, like Plato, is notoriously careless of chronology (cp. Rep.,
-Symp., etc.), only aims at general probability. Whether all the persons
+Symp., 193 A, etc.), only aims at general probability. Whether all the persons
 mentioned in the Republic could ever have met at any one time is not
 a difficulty which would have occurred to an Athenian reading the work
 forty years later, or to Plato himself at the time of writing (any more
@@ -356,7 +358,7 @@ cannot argue historically from the dates in Plato; it would be useless
 therefore to waste time in inventing far-fetched reconcilements of them
 in order to avoid chronological difficulties, such, for example, as
 the conjecture of C.F. Hermann, that Glaucon and Adeimantus are not the
-brothers but the uncles of Plato (cp. Apol.), or the fancy of Stallbaum
+brothers but the uncles of Plato (cp. Apol. 34 A), or the fancy of Stallbaum
 that Plato intentionally left anachronisms indicating the dates at which
 some of his Dialogues were written.
 
@@ -393,7 +395,7 @@ tolerable portion of existence is characteristic, not only of him,
 but of Greek feeling generally, and contrasts with the exaggeration of
 Cicero in the De Senectute. The evening of life is described by Plato
 in the most expressive manner, yet with the fewest possible touches. As
-Cicero remarks (Ep. ad Attic.), the aged Cephalus would have been out of
+Cicero remarks (Ep. ad Attic. iv. 16), the aged Cephalus would have been out of
 place in the discussion which follows, and which he could neither have
 understood nor taken part in without a violation of dramatic propriety
 (cp. Lysimachus in the Laches).
